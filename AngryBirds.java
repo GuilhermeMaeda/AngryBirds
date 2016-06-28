@@ -1,6 +1,4 @@
 package angryBrirds;
-package angryBrirds;
-
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
